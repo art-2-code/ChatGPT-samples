@@ -1,0 +1,1 @@
+Generate a command-line Rust program that takes ArraySize and MaxRange as an inputs and generates an ArraySize by ArraySize matrix of random floating point numbers and outputs that matrix to a json file using #.####e# format for the output numbers. The random floating point numbers should be uniformly distributed over (0,MaxRange).
